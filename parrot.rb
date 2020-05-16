@@ -1,3 +1,3 @@
-def say_hello(name="Ruby Programmer")
+def Parrot(phrase="Squawk")
   puts "Hello #{name}!"
 end
